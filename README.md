@@ -1,4 +1,4 @@
 lebistro
 ========
 
-restaurant wite
+restaurant website
